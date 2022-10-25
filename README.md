@@ -9,6 +9,7 @@ Collections assignment and Codealong solution
 - [Generic Interfaces](https://www.codingame.com/playgrounds/2290/demystifying-c-generics/generics-interfaces)
 - [Generic Collections](https://www.codingame.com/playgrounds/2290/demystifying-c-generics/generics-collections)
 - [Using and Namespaces](https://centria.github.io/basic-coding/part12/1/)
+- I
 
 
 ### The Collection Exercises are below:
@@ -33,4 +34,3 @@ Create a dictionary that will store both string keys as well as string values Ad
 - [Interfaces vs inheritance](https://www.codecademy.com/learn/build-web-apps-asp-net-intermediate-c-sharp/modules/learn-csharp-interfaces-inheritance/cheatsheet)
 - [C# types of collections](https://zetcode.com/csharp/collection/)
 - [IEnumerable vs IEnumerator](https://www.youtube.com/watch?v=VcAubtFBOdY)
-- 
