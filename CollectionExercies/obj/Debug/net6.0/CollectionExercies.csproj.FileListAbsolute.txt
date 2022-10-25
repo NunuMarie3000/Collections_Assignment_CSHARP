@@ -1,0 +1,15 @@
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/bin/Debug/net6.0/CollectionExercies
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/bin/Debug/net6.0/CollectionExercies.deps.json
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/bin/Debug/net6.0/CollectionExercies.runtimeconfig.json
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/bin/Debug/net6.0/CollectionExercies.dll
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/bin/Debug/net6.0/CollectionExercies.pdb
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.csproj.AssemblyReference.cache
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.GeneratedMSBuildEditorConfig.editorconfig
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.AssemblyInfoInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.AssemblyInfo.cs
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.csproj.CoreCompileInputs.cache
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.dll
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/refint/CollectionExercies.dll
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.pdb
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/CollectionExercies.genruntimeconfig.cache
+/home/nunumarie3000/projects/courses/Code401/Collections_Assignment_CSHARP/CollectionExercies/obj/Debug/net6.0/ref/CollectionExercies.dll
